@@ -21,7 +21,7 @@ public class Exp3_S8_Nicolás_Grez {
         try ( Scanner sc = new Scanner(System.in)) {
             String[] zonas = {"Zona A", "Zona B", "Zona C"};
             int[] preciosNetos = {30000, 18000, 13000};
-            int[] asientosDisponibles = {1, 12, 12};
+            int[] asientosDisponibles = {12, 12, 12};
             String[] clientes = new String[36];
             int[] edadesClientes = new int[36];
             String[] asientosReservados = new String[36];
